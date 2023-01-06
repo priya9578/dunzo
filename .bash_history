@@ -333,3 +333,40 @@ ll
 touch choclates
 touch lays meat eggs
 ll
+git remote add origin https://github.com/priya9578/dunzo.git
+git push -u origin master
+clear
+git push -u origin master
+ll
+git status
+ll
+git status
+ll
+git branch
+git commit -m "all file commited" .
+gut checkout -b green
+git checkout -b green
+ll
+rm -rf *
+ll
+touch plants bushes herbs
+ll
+git add *
+ll
+got commit -m "green files commited" .
+git commit -m "green files commited" .
+ll
+git push -u origin green
+git checkout -b orange
+ll
+git add *
+got commit -m "orange files commited" .
+toucn files{1..5}
+touch file{1..5}
+ll
+git add *
+got commit -m "orange files commited" .
+git commit -m "orange files commited" .
+ll
+git push -u orange
+git push -u origin orange
