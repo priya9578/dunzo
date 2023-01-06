@@ -273,3 +273,63 @@ git add .
 git status
 git rm --cached azure
 git status
+git log
+history
+git rm--cached *.
+git status
+git log -2
+git log --1
+git log --oneline
+git config user.name "priya"
+git config user.email "priya567@gmail.com"
+git log 
+git add aws gcp
+git commit -m "message" .
+git status
+ll
+cat>aws
+cat>gcp
+git commit -m £message" .
+
+
+git commit -m "message" .
+git log
+git commit -m "aws file commiting again" .
+git status
+cat>>aws
+git commit -m "aws" .
+git status
+git status *
+lll
+ll
+vim .gitignore
+git add *
+ll
+git status
+touch aws.jpg{1..5}
+ll
+vim .gitignore
+git status
+git add *
+git status
+vim .gitignore
+git add *
+git status
+vim .gitignore
+git status
+cd logs/
+cd ../
+cd ..
+ll
+git --version
+ll
+rm -rf *
+ll
+clear
+ll
+git remode add origin https://github.com/priya9578/dunzo.git
+git remote add origin https://github.com/priya9578/dunzo.git
+ll
+touch choclates
+touch lays meat eggs
+ll

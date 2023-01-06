@@ -10,11 +10,16 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Search Pattern:
+~Msle0~/\<jpg1\>
+
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1672583386,,"wq!"
+|2,0,1672635877,,"wq!"
 
 # Search String History (newest to oldest):
+? \<jpg1\>
+|2,1,1672635830,,"\\<jpg1\\>"
 
 # Expression History (newest to oldest):
 
@@ -25,14 +30,82 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/file
-|4,48,1,0,1672583386,"~/file"
+'0  1  0  ~/.gitignore
+|4,48,1,0,1672635877,"~/.gitignore"
+'1  1  4  ~/.gitignore
+|4,49,1,4,1672635843,"~/.gitignore"
+'2  1  7  ~/.gitignore
+|4,50,1,7,1672635639,"~/.gitignore"
+'3  1  7  ~/.gitignore
+|4,51,1,7,1672635639,"~/.gitignore"
+'4  2  2  ~/.gitignore
+|4,52,2,2,1672635530,"~/.gitignore"
+'5  2  2  ~/.gitignore
+|4,53,2,2,1672635530,"~/.gitignore"
+'6  2  2  ~/.gitignore
+|4,54,2,2,1672635530,"~/.gitignore"
+'7  2  2  ~/.gitignore
+|4,55,2,2,1672635530,"~/.gitignore"
+'8  1  0  ~/file
+|4,56,1,0,1672583386,"~/file"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitignore
+|4,39,1,0,1672635877,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1672635843,"~/.gitignore"
+-'  1  7  ~/.gitignore
+|4,39,1,7,1672635639,"~/.gitignore"
+-'  2  2  ~/.gitignore
+|4,39,2,2,1672635530,"~/.gitignore"
+-'  2  2  ~/.gitignore
+|4,39,2,2,1672635530,"~/.gitignore"
+-'  2  2  ~/.gitignore
+|4,39,2,2,1672635530,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1672635510,"~/.gitignore"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
+-'  1  0  ~/file
+|4,39,1,0,1672583386,"~/file"
 -'  1  0  ~/file
 |4,39,1,0,1672583386,"~/file"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1672635876	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	10
+	+	1	0
 
 > ~/file
 	*	1672583383	0
